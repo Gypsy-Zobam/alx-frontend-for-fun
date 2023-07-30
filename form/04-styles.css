@@ -702,7 +702,7 @@
 
     input[type=text],
     input[type=email] {
-        padding: 3rem;
+        padding-right: 3rem;
     }
 
     input[type=text]:focus,

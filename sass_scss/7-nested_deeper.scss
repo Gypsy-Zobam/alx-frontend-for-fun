@@ -9,7 +9,7 @@ body{
   Font-size: 14px;
    h1{
     Font-size: 16px;
-     .smaller{
+     &.smaller{
        Font-size: 12px;
      }
   }

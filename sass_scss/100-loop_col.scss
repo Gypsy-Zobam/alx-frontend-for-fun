@@ -10,6 +10,6 @@ You must use a @for statement */
 $width: (100%, 50%, 33.3333333333%, 25%);
 @for $i from 1 through 4 {
   .col-#{$i} {
-    font-size: nth($width, $i);
+    Width: nth($width, $i);
   }
 }
